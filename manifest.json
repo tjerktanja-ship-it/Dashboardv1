@@ -1,0 +1,11 @@
+{
+  "name": "Auto Control",
+  "short_name": "Auto Control",
+  "lang": "nl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080d13",
+  "theme_color": "#0b1118",
+  "description": "Persoonlijk autodashboard"
+}
